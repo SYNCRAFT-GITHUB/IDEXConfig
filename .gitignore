@@ -1,3 +1,6 @@
+.moonraker.conf.bkp
+apply.sh
+octoeverywhere.conf
 printer-2*.cfg
 /printer.cfg
 /variables.cfg
