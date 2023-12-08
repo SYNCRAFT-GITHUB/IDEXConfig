@@ -1,6 +1,6 @@
-backups/extract-saveconfig.txt
 printer-2*.cfg
-printer.cfg
-variables.cfg
-KlipperScreen.conf
+/printer.cfg
+/variables.cfg
+/KlipperScreen.conf
+/IDEXScreen.conf
 .DS_Store
