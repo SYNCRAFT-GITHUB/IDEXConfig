@@ -1,9 +1,13 @@
 .moonraker.conf.bkp
 apply.sh
+transfer.sh
 octoeverywhere.conf
 printer-2*.cfg
 /printer.cfg
 /variables.cfg
 /KlipperScreen.conf
+/SwierVision.conf
 /IDEXScreen.conf
 .DS_Store
+.vscode
+.idea
