@@ -1,3 +1,7 @@
-# Syncraft IDEX Config Files
-These are macros/settings files for different programs like Klipper, moonraker, and others.
-All softwares/files rights are reserved to the creators, within the distribution license in which they are in agreement.
+# Syncraft IDEX
+
+Main repository for the Syncraft IDEX 3D printer.
+
+Should be cloned named as `config` in the `printer_data` repository.
+
+See `build` for instructions on building the machine for the first time.
