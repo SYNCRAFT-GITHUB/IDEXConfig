@@ -1,6 +1,4 @@
 .moonraker.conf.bkp
-apply.sh
-transfer.sh
 octoeverywhere.conf
 printer-2*.cfg
 /printer.cfg
@@ -11,3 +9,4 @@ printer-2*.cfg
 .DS_Store
 .vscode
 .idea
+/canbus_uuids.json
