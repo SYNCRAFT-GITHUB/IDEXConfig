@@ -94,3 +94,9 @@ needs_root_rights=yes'
 
 echo -e "$xwrapper" | sudo tee /etc/X11/Xwrapper.config
 sudo chmod +x /etc/X11/Xwrapper.config
+
+# copy backups to ..
+
+cp ../backups/SwierVision ..
+cp ../backups/variables ..
+sudo python3 ../scripts/transfer.py
