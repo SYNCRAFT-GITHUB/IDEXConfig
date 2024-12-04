@@ -33,3 +33,7 @@ Instructions and scripts required for building the machine for the first time.
 ### `/scripts`
 
 Python scripts used on startup.
+
+### `/calibrations`
+
+Sliced 3D models used on machine calibration. 
