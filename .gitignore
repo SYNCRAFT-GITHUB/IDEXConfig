@@ -10,3 +10,4 @@ printer-2*.cfg
 .vscode
 .idea
 /canbus_uuids.json
+__pycache__/
