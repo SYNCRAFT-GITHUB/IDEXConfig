@@ -37,3 +37,7 @@ Python scripts used on startup.
 ### `/calibrations`
 
 Sliced 3D models used on machine calibration. 
+
+## Macros
+
+- Variables related to nozzle and material are both saved with the extruder name followed by a underscore (_) and either `nozzle` or `material`. `extruder_stepper`'s whitespaces are replaced with a dash (-).

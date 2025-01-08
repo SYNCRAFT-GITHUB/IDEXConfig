@@ -97,6 +97,8 @@ sudo chmod +x /etc/X11/Xwrapper.config
 
 # copy backups to ..
 
-cp ../backups/SwierVision ..
-cp ../backups/variables ..
+cp ../backups/SwierVision.conf ..
+cp ../backups/variables.cfg ..
+cp ../backups/printer.cfg ..
+cat ../backups/printercfgsaveconfig.txt >> ../printer.cfg
 sudo python3 ../scripts/transfer.py
